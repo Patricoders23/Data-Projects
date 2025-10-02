@@ -556,7 +556,7 @@ I'm **Patricia García**, a Data Scientist with a unique background in Petroleum
 - 💼 **LinkedIn:** [patri-data-engineering](https://www.linkedin.com/in/patri-data-engineering)
 - 📧 **Email:** leidygarciaguzman@gmail.com
 - 🐙 **GitHub:** [Patricoders23](https://github.com/Patricoders23)
-- 📍 **Location:** Madrid, Spain (Open to remote opportunities)
+- 📍 **Location:** Berlin, Germany (Open to remote opportunities)
 
 **Open to:**
 - 💼 Full-time Data Scientist positions
@@ -587,7 +587,6 @@ If you find this portfolio helpful:
 
 ## 🙏 Acknowledgments
 
-- Nuclio Digital School for excellent ML education
 - Kaggle community for datasets and inspiration
 - Scikit-learn team for amazing documentation
 - All open-source contributors
